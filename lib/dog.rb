@@ -1,4 +1,4 @@
-class Person
+class Dog
 
   def initialize(breed="Mutt")
     @breed = breed
